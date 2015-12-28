@@ -1,0 +1,28 @@
+name: ytene
+favicon: null
+layout_spectrum: 0.13443442154675722
+typography_spectrum: 0.6135030742734671
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4292923114262521
+  lightness: 0.6013225549831986
+  saturation: 0.010073518147692084
+  rhythmicContrast: 0.1914183283224702
+purpose: []
