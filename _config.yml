@@ -1,7 +1,7 @@
 name: ytene
 favicon: null
-layout_spectrum: 0.13443442154675722
-typography_spectrum: 0.6135030742734671
+layout_spectrum: 0.00181
+typography_spectrum: 0.2497
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.4292923114262521
+  brandStrength: 0.5
   lightness: 0.6013225549831986
-  saturation: 0.010073518147692084
+  saturation: 0.5
   rhythmicContrast: 0.1914183283224702
 purpose: []
